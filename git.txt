@@ -1,0 +1,9 @@
+create and switch branch
+
+git checkout -b "branch name"
+
+see all branch
+git branch -a
+
+create new branch 
+git branch "branch name"
